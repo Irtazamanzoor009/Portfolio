@@ -384,9 +384,9 @@ span
     width: 100%;
     background-color: #e0e0e0;
     /* background-color: var(--snd-bg-color); */
-    border-radius: 10px;
+    border-radius: 5px;
     overflow: hidden;
-    height: 20px;
+    height: 15px;
     /* margin-top: 5px; */
     position: relative;
 }
@@ -394,7 +394,7 @@ span
 .progress {
     height: 100%;
     background-color: var(--main-color);
-    border-radius: 10px;
+    border-radius: 5px;
     width: 0;
     transition: width 2s ease;
 }
